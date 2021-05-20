@@ -4,7 +4,7 @@
   "description": "Un chat creado con NodeJS",
   "main": "index.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app"
   },
   "author":"Mayra Marcela González Rojas",
   "license": "MIT",

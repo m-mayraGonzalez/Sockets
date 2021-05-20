@@ -1,0 +1,16 @@
+{
+  "name": "node-chat",
+  "version": "0.0.1",
+  "description": "Un chat creado con NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author":"Mayra Marcela González Rojas",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
